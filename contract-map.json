@@ -967,5 +967,12 @@
     "erc20": true,
     "symbol": "KODA",
     "decimals": 0
+  },
+  "0x66d9c4D19b4C8e23a54C6dc4CeEd141f66b8111C": {
+    "name": "Fountain 2",
+    "logo": "fountain.svg",
+    "erc20": true,
+    "symbol": "FTN",
+    "decimals": 18
   }
 }
